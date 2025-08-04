@@ -2,7 +2,7 @@
 Error free, an optimized, high-performance copy trading bot for the Pump.fun Solana-based token exchange, built with ❤️ in Rust. This bot listens to traders’ activities in real-time and executes trades automatically based on your configurations.
  
  
----  
+---   
 
 ## 📦 Features  
 
