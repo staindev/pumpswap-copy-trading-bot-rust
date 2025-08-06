@@ -12,7 +12,7 @@ Error free, an optimized, high-performance copy trading bot for the Pump.fun Sol
 - 🪙 Trade with Jito tips to maximize speed
 - 🛠️ Fully customizable trader list and logic
 - 📝 Easy configuration via `.env` file
- 
+  
 ---
 
 ## 🖥️ Preview
