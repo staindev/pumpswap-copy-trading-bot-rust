@@ -3,7 +3,7 @@ Error free, an optimized, high-performance copy trading bot for the Pump.fun Sol
  
  
 ---   
-
+ 
 ## 📦 Features  
 
 - ⚡ Real-time copy trading via WebSocket
